@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Cache
+.npm
+babel_cache
+
+# MAC please
+.DS_Store
+
+# Build client folder
+client/dist/js
+client/dist/css
+
+# Build server folder
+server/dist
